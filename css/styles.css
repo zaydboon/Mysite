@@ -1,0 +1,182 @@
+a {
+  text-decoration: none;
+  font-family: Montserrat, sans-serif;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: teal;
+}
+
+body {
+  background-color: #66BFBF;
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-family: 'Sacramento', cursive;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  color: #66BFBF;
+  font-family:  'Sacramento', cursive;
+  font-size: 6rem;
+}
+
+h2 {
+  font-family: Montserrat, sans-serif;
+  font-size: 4rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: .5;
+  margin: 125px;
+}
+
+h3 {
+  font-family: Montserrat, sans-serif;
+  font-size: 25px;
+  color: #11999E;
+}
+
+p {
+  font-size: 1.5rem;
+  line-height: 2;
+}
+
+hr {
+  color: #EAF6F6;
+  background-color: none;
+  border-style: none;
+  border-top: dotted 10px;
+  span: 45px;
+  height: 1.5px;
+  width: 5%;
+  margin: 20px auto 150px auto:
+}
+
+.aboutme {
+  margin: 100px auto 100px auto;
+  width: 30%;
+}
+
+.btn {
+  font-size: 25px;
+  color: #11999E;
+  font-family: Montserrat;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 30%;
+  text-align: left;
+}
+
+.mytitle {
+  font-family: Merriweather, sans-serif;
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  bottom: 0;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: white;
+  padding: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  font-size: 30px;
+  margin: 25px 0 50px 0;
+}
+
+.butn {
+  background: #6fd4d4;
+  background-image: -webkit-linear-gradient(top, #6fd4d4, #468282);
+  background-image: -moz-linear-gradient(top, #6fd4d4, #468282);
+  background-image: -ms-linear-gradient(top, #6fd4d4, #468282);
+  background-image: -o-linear-gradient(top, #6fd4d4, #468282);
+  background-image: linear-gradient(to bottom, #6fd4d4, #468282);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Montserrat, sans-serif;
+  color: white;
+  font-size: 22px;
+  padding: 12px;
+  border: solid #66BFBF 0px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #0099a1;
+  background-image: -webkit-linear-gradient(top, #0099a1, #3498db);
+  background-image: -moz-linear-gradient(top, #0099a1, #3498db);
+  background-image: -ms-linear-gradient(top, #0099a1, #3498db);
+  background-image: -o-linear-gradient(top, #0099a1, #3498db);
+  background-image: linear-gradient(to bottom, #0099a1, #3498db);
+  text-decoration: none;
+}
+
+.pro {
+  text-decoration: underline;
+  display: inline-block;
+}
+
+.footer-link {
+  color: #11999E;
+  font-family: arial, sans-serif;
+  font-weight: 2rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.htmlpic {
+  float: left;
+  padding: 0 10px 10px 0;
+  height: 200px;
+  width: auto;
+}
+
+.jspic {
+  float: right;
+  height: 200px;
+  width: auto;
+  padding: 0 10px 10px 0;
+}
+
+.mountain-img {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  vertical-align: bottom;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 1rem;
+}
+
+.profilepic2 {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin: 50px auto 50px auto;
+  object-fit: cover;
+}
